@@ -1,0 +1,24 @@
+{
+  "name": "my-github-portfolio",
+  "homepage": "https://tj-dsk-tpp.github.io",
+  "repository": "https://github.com/tj-dsk-tpp/website-code",
+  "keywords": [
+    "Portfolio",
+    "Vite",
+    "THREE"
+  ],
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "three": "^0.148.0"
+  }
+}
